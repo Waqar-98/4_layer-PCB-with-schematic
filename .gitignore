@@ -1,0 +1,6 @@
+*-bak
+*.bck
+*~
+_autosave-*
+fp-info-cache
+*.rpt
