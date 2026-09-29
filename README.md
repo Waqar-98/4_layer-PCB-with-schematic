@@ -1,4 +1,4 @@
-# Revision Project: 4-Layer ESP32 Sensor Board
+4-Layer ESP32 Sensor Board
 
 A battery-powered, USB-C rechargeable ESP32-C3 sensor node integrating environmental (temperature/humidity/pressure), ambient light, and sound sensing, with onboard USB-to-UART programming, microSD data logging, and an I2C display header. This repository is a **revision** of the original 2-layer design, re-laid-out as a **4-layer PCB** (dedicated inner power/ground planes) for improved signal integrity and routing.
 
